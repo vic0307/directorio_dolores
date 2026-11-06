@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Flutter / Dart
+.dart_tool/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.vscode/
+.DS_Store
+app/android/.gradle/
+app/android/local.properties
+app/ios/Pods/
+
+# Secretos
+*.env
+.env*
+*.jks
+*.keystore
+key.properties
